@@ -1,0 +1,19 @@
+{
+  "name": "async-test-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "node": "^12.8.1",
+    "node-fetch": "^2.6.0"
+  }
+}
